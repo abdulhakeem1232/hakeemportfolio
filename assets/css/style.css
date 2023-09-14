@@ -1210,3 +1210,13 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+#msg{
+  color: #61b752;
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+}
+form span{
+  color: red;
+  font-size: 15px;
+}
